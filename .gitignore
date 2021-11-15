@@ -1,0 +1,6 @@
+# logs
+*.log
+tests_output
+
+# libs
+node_modules

@@ -1,0 +1,10 @@
+This test case do not anticipate that trainline.fr page returns different layouts, so there is no
+language change in it.
+
+1. As a user, I open 'trainline.fr' page
+2. As a user, I fill search form and submit it with this values:
+    -   'Paris' for Départ
+    -   'Angers' for Arrivée
+    -   '25 décembre 16:00' for Aller
+3. As a user, I check that result page contain train for 04:30 PM (16h30) from MONTPARNASSE 1 ET 2 to ANGERS
+    SAINT LAUD at 6:30PM (18h30)

@@ -1,0 +1,8 @@
+1. As a user, I open 'https://kicherchekoi.com/'
+2. As a user, I click on a 'Consulter nos annonces' button
+3. As a user, I check that I am on a search page
+4. As a user, I search for 'Mario Kart' without any additional parameters
+5. As a user, I check, that there is some results that's relevant to my search request
+6. As a user, I change search query to 'mariokart64', select category 'moto / scooter / quad', select 'Titre uniquement' option
+    and type '75058' as a Department
+7. As a user, I check that there is a no results for that query, and that 'No results found' message is present on a page

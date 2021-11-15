@@ -1,0 +1,6 @@
+1. As a user, I open 'https://xkcd.com'
+2. As a user, I check, that there is a comic on a main page
+3. As a user, I click on Random button
+4. As a user, I check that a new comic is displayed
+5. As a user, I open my favorite comic with url 'https://imgs.xkcd.com/comics/security.png'
+6. As a user, I make sure that my favorite comic is present on a page
